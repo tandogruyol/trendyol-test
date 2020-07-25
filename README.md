@@ -1,14 +1,9 @@
 # trendyol-test
 Test Shopping Website using Selenium WebDriver Framework
-
 /* Please Run RunTest in the folder named mainProcess
-
 /*I have selected the product with the ID number 32362675 "div[data-id='32362675']", please replace the css selector of the desired product to be selected 
-
 /* Supported browser ChromeDriver, chromedriver.exe
-
 The project was created by Taner Doğruyol for Testinium. Expectations:
-
 /*Go to the URL www.trendyol.com and confirm the page. 
 /*Close -if there is- the advertisement/pop-up 
 /*Go to Login page 
