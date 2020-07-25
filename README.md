@@ -9,22 +9,22 @@ Test Shopping Website using Selenium WebDriver Framework
 
 The project was created by Taner Doğruyol for Testinium. Expectations:
 
-/*Go to the URL www.trendyol.com and confirm the page. 
+-Go to the URL www.trendyol.com and confirm the page. 
 
-/*Close -if there is- the advertisement/pop-up 
+-Close -if there is- the advertisement/pop-up 
 
-/*Go to Login page 
+-Go to Login page 
 
-/*Type the email/username and password to its section and submit (In this example username:"denemetestiicin@test.com" password:"test1234test" Can be changed in TestBase.java) 
+-Type the email/username and password to its section and submit (In this example username:"denemetestiicin@test.com" password:"test1234test" Can be changed in TestBase.java) 
 
-/*Search 'Bilgisayar' on the searchbar 
+-Search 'Bilgisayar' on the searchbar 
 
-/*Choose any product, get cost info and go to cart 
+-Choose any product, get cost info and go to cart 
 
-/*Compare the prices between carted and viewed product(of the same product) 
+-Compare the prices between carted and viewed product(of the same product) 
 
-/*Increase the quantity of the product and confirm quantity is equal to 2 
+-Increase the quantity of the product and confirm quantity is equal to 2 
 
-/*Remove all items in cart and empty the cart 
+-Remove all items in cart and empty the cart 
 
-/*Close the website
+-Close the website
